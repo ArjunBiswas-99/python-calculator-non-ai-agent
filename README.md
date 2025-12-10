@@ -4,7 +4,7 @@ A scientific calculator agent built with SOLID principles that understands natur
 
 ---
 
-## Installation
+## Installation 
 
 ### Prerequisites
 - Python 3.7 or higher
