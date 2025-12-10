@@ -1,6 +1,6 @@
 # Python Calculator Non-AI Agent
 
-A scientific calculator agent built with SOLID principles that understands natural language queries and performs mathematical calculations without using AI/machine learning models.
+A scientific calculator agent built with Python that understands natural language queries and performs mathematical calculations without using AI/machine learning models.
 
 ---
 
