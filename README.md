@@ -44,6 +44,9 @@ Agent: The answer is 12
 You: quit
 ```
 
+<img width="671" height="451" alt="image" src="https://github.com/user-attachments/assets/962bdf8c-481a-4d6f-af4a-839a0569e84a" />
+
+
 ### Web Interface (Browser)
 
 1. Start the web server:
