@@ -67,6 +67,9 @@ python3 examples.py
 
 ---
 
+<img width="1775" height="963" alt="image" src="https://github.com/user-attachments/assets/ff80fecb-82ee-4013-afec-ecf8f29c8938" />
+
+
 ## Features
 
 ### Mathematical Operations
